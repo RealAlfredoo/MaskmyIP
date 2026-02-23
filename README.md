@@ -10,7 +10,7 @@ MaskMyIP automatically detects and masks your IP address across the web, replaci
 **⚡ Auto Mode**
 MaskMyIP fetches your real public IP address using the [ipify.org](https://api.ipify.org) API — a trusted, open, and privacy-respecting service. Once detected, any occurrence of your IP on any webpage is instantly replaced. No configuration needed.
 
-**🔍 Pattern Mode** *(default)*
+**🔍 Pattern Mode** *(default),(best)*
 Don't want to rely on an external API? Pattern mode scans every page for any text matching the format of an IP address (e.g. `192.168.0.1`) and masks them all — regardless of whether it's your IP or not. Maximum coverage, zero API calls.
 
 **✏️ Manual Mode**
