@@ -34,6 +34,12 @@ Whenever your IP is detected on a page, MaskMyIP replaces it with a subtle green
 
 ---
 
+### Downloads will be available soon!
+
+There will be support for Chrome, Brave, Edge, Firefox, and others soon!
+
+---
+
 ### ⚠️ Disclaimer
 
 MaskMyIP masks IP addresses visible in webpage content. It is not a VPN and does not hide your IP at the network level. Due to technical limitations, some dynamically generated or canvas-rendered content may not be masked. We are not liable for any IP address exposure that may occur. Use at your own risk.
