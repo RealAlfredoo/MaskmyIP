@@ -16,6 +16,8 @@ Don't want to rely on an external API? Pattern mode scans every page for any tex
 **✏️ Manual Mode**
 Know your IP already? Enter it yourself and MaskMyIP will hide exactly that address across all pages. Full control, no lookups.
 
+<img width="329" height="527" alt="image" src="https://github.com/user-attachments/assets/357f6cb1-cf22-4e44-a5dc-2bbfcc648b1d" />
+
 ---
 
 ### How It Works
