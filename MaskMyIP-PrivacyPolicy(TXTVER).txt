@@ -1,0 +1,136 @@
+================================================================================
+  MASKMYIP — PRIVACY POLICY
+================================================================================
+
+  Developer:    Oskar Pękala (aka. "RealAlfredoo")
+  GitHub:       https://github.com/RealAlfredoo/MaskmyIP
+  Effective:    January 1, 2026
+  Last updated: January 1, 2026
+
+================================================================================
+  TL;DR — THE SHORT VERSION
+================================================================================
+
+  · MaskMyIP does NOT collect any personal data
+  · MaskMyIP does NOT store, sell or share any information about you
+  · MaskMyIP does NOT use analytics, tracking or advertising
+  · Everything runs locally in your browser — nothing is sent to any server
+  · Auto-Detect mode uses ipify.org solely to fetch your IP — nothing is logged
+
+================================================================================
+  1. INTRODUCTION
+================================================================================
+
+This Privacy Policy describes how MaskMyIP ("the Extension"), developed by
+Oskar Pękala (aka. "RealAlfredoo"), handles information when you use the
+extension in your browser.
+
+By installing and using MaskMyIP, you agree to the terms described in this
+policy. If you do not agree, please uninstall the extension.
+
+================================================================================
+  2. DATA WE DO NOT COLLECT
+================================================================================
+
+MaskMyIP is built with a strict no-data-collection philosophy.
+We do NOT collect, store, transmit or share:
+
+  · Your IP address
+  · Browsing history
+  · Websites you visit
+  · Personal information of any kind
+  · Usage statistics
+  · Device information
+  · Cookies or tracking identifiers
+
+The extension operates entirely within your local browser environment.
+No data ever leaves your device to our servers — because we don't have any.
+
+================================================================================
+  3. LOCAL STORAGE
+================================================================================
+
+MaskMyIP stores your preferences using your browser's built-in local storage.
+This data:
+
+  · Stays exclusively on your device
+  · Is never transmitted anywhere
+  · Can be cleared at any time by removing the extension
+
+What is stored locally:
+  · Selected protection mode (Pattern / Auto / Manual)
+  · UI language preference (EN / PL)
+  · Protection on/off state
+  · Masked IP count (local statistics only)
+
+================================================================================
+  4. THIRD-PARTY API — IPIFY.ORG
+================================================================================
+
+When you use Auto-Detect Mode, the extension makes a single request to
+ipify.org — a public, free IP lookup API — to retrieve your current public
+IP address.
+
+This request is made directly from your browser to ipify.org. MaskMyIP does
+not intercept, store or process this data. The IP is used only locally to
+determine what to mask on webpages.
+
+  API used:       api.ipify.org (primary) · api.my-ip.io (fallback)
+  Data sent:      Standard browser request (no additional data)
+  Data received:  Your public IP address (used locally, never stored by us)
+  ipify privacy:  https://www.ipify.org
+
+If you do not wish to use this API, use Pattern Mode or Manual Mode instead —
+neither makes any external requests.
+
+================================================================================
+  5. PERMISSIONS
+================================================================================
+
+MaskMyIP requests the following browser permissions and here is exactly why:
+
+  storage      — to save your preferences locally in the browser
+  activeTab    — to scan and mask IP addresses on the current page
+  scripting    — to inject the masking script into webpages
+  <all_urls>   — to work on all websites you visit
+
+None of these permissions are used to collect, transmit or analyze your data.
+They exist solely to enable the core functionality of IP masking.
+
+================================================================================
+  6. CHILDREN'S PRIVACY
+================================================================================
+
+MaskMyIP does not knowingly collect any information from anyone, including
+children under the age of 13. Since we collect no data whatsoever, this
+extension is safe for all age groups.
+
+================================================================================
+  7. CHANGES TO THIS POLICY
+================================================================================
+
+We may update this Privacy Policy from time to time. Any changes will be
+reflected by updating the "Last updated" date at the top of this page.
+Continued use of the extension after changes constitutes acceptance of the
+updated policy.
+
+================================================================================
+  8. DISCLAIMER
+================================================================================
+
+MaskMyIP masks IP addresses visible in webpage content and is NOT a substitute
+for a VPN or anonymization service. Due to the variety of web technologies in
+use, some IP addresses may not be detected on all pages. The author is not
+liable for any IP address exposure that may occur during use.
+
+================================================================================
+  9. CONTACT
+================================================================================
+
+If you have any questions about this Privacy Policy, you can reach the author:
+
+  GitHub:  https://github.com/RealAlfredoo/MaskmyIP
+
+================================================================================
+  © 2026 Oskar Pękala (aka. "RealAlfredoo") · All Rights Reserved · MaskMyIP
+================================================================================
